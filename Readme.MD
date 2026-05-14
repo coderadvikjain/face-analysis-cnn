@@ -129,3 +129,7 @@ kagglehub.model_download("jatinnahatajain/gender-age-cnn/pytorch/baseline")
 **Jatin Nahata Jain** — [Kaggle Profile](https://www.kaggle.com/jatinnahatajain)
 
 ---
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
