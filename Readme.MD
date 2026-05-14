@@ -63,8 +63,7 @@ Both models share a similar 3-layer convolutional architecture with fully connec
 
 ```
 ├── notebook.ipynb          # Main Kaggle notebook
-├── README.md               # This file
-└── .gitignore              # Excludes large model files
+└── README.md               # This file
 ```
 
 ---
